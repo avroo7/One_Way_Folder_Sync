@@ -3,7 +3,9 @@ Python script that synchronises a Source folder to a Sync folder, and maintains 
 
 # Usage :
 python folder_synch.py [-h] -s SOURCE -d DESTINATION [-l LOG] [-t PERIODICITY]
+
 optional arguments:
+
   -h, --help                                             show this help message and exit
   -s SOURCE, --source SOURCE                             Source Folder
   -d DESTINATION, --destination DESTINATION              Destination/Synch folder
