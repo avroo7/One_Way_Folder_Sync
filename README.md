@@ -7,9 +7,13 @@ python folder_synch.py [-h] -s SOURCE -d DESTINATION [-l LOG] [-t PERIODICITY]
 optional arguments:
 
   -h, --help                                             show this help message and exit
+  
   -s SOURCE, --source SOURCE                             Source Folder
+  
   -d DESTINATION, --destination DESTINATION              Destination/Synch folder
+  
   -l LOG, --log LOG                                      Log folder (default: Current folder)
+  
   -t PERIODICITY, --periodicity PERIODICITY              Periodicity of Synchronisation in minutes (default:1.0 min)
   
 -s SOURCE and -d DESTINATION are required arguments
