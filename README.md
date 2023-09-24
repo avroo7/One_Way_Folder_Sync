@@ -30,7 +30,6 @@ It also differentiates between creating a file that previously did not exist, an
 Example :
     - Synch_folder/Sub_folder/file.txt -  Created 
     (This is a new file that previously was not in the Synch folder)
-    
     - Synch_folder/Sub_folder/file.txt - Modified 
     (A file with this name was in the Synch folder, but the checksum is different, as such it was modified) 
     
